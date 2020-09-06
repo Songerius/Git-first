@@ -1,4 +1,4 @@
 Hola amigos este
 es mi primer archivo en 
 git con mi primer commit 
-despues iremos a otro <i class="fa fa-file-video-o" aria-hidden="true"></i>
+despues iremos a otro lado 
