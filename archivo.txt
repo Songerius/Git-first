@@ -2,3 +2,4 @@ Hola amigos este
 es mi primer archivo en 
 git con mi primer commit 
 un gran founder
+una gran persona
