@@ -13,8 +13,7 @@
     margin: 0 auto;
 
 }
-.caja h1,
-p {
+.caja h1 {
     color: blue;
     text-align: center;
     font-family: "Arial";
@@ -23,4 +22,7 @@ p {
 
 
 }
+ p {
+     text-align: center;
+ }
 
