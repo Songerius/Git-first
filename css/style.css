@@ -25,12 +25,11 @@
      text-align: center;
      color: black;
      /* display: flex; */
-     font-size: 16px;
+
  }
 
 .caja h1 {
     color: blue;
     font-size: 20px;
-    font-family: "Courier";
-    text-align: center;
+
 }
