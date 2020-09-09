@@ -1,3 +1,9 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(135deg, rgba(2,0,36,1) 0%, rgba(153,7,210,1) 0%, rgba(84,84,84,1) 0%, rgba(41,41,41,1) 0%, rgba(158,178,184,1) 86%);
+    background-repeat: repeat;
+    background-size: 100%;
+}
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -11,6 +17,7 @@
     height: 250px;
     border: 1px solid grey;
     margin: 0 auto;
+    background-color: white;
 
 }
 
@@ -18,7 +25,8 @@
     -webkit-box-shadow: -4px 4px 84px -50px rgba(0,0,0,0.75);
     -moz-box-shadow: -4px 4px 84px -50px rgba(0,0,0,0.75);
     box-shadow: -4px 4px 84px -50px rgba(0,0,0,0.75);
-    background-color: #1c44e6;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(153,7,210,1) 0%, rgba(33,82,226,1) 0%, rgba(7,184,231,1) 86%);
     margin-inline-start: 0;
     margin-block-start: 0;
     margin: 0;
@@ -62,4 +70,8 @@
     color: white;
     font-size: 18px;
     text-align: center;
+}
+
+#logo {
+    width: 25px;
 }
