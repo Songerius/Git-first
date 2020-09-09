@@ -8,7 +8,7 @@
 }
 .caja {
     width: 75%;
-    height: 250px;
+    height: auto;
     border: 1px solid grey;
     margin: 0 auto;
 
@@ -62,4 +62,12 @@
     color: white;
     font-size: 18px;
     text-align: center;
+}
+.footer {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(153,7,210,1) 0%, rgba(84,84,84,1) 0%, rgba(41,41,41,1) 0%, rgba(131,139,142,1) 100%);
+}
+
+.footer p {
+    color: white;
 }
