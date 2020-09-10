@@ -31,10 +31,10 @@
 # Tecnologias
 
 <p align="center">
-<img src="https://www.picuino.com/_images/html5-logo.png" width="150px"/>
-<img src="https://www.picuino.com/_images/css3-logo.png" width="150px"/>
-<img src="https://lh3.googleusercontent.com/proxy/S1SegGp0w6rQgngJh9G7CekRZhTuSGUqigTXMnoNdYKNknUyLq-LTViauP6SKS5LsyQ1KqaumzZ5eiAj2M_LDe7vNcl7i1p3Y2DONUR7tR5bbY4LQsP5Dw" width="150px"/>  
-<img src="https://www.pngrepo.com/png/217753/180/github.png" width="150px"/>
+<img src="https://www.picuino.com/_images/html5-logo.png" width="120px"/>
+<img src="https://www.picuino.com/_images/css3-logo.png" width="120px"/>
+<img src="https://lh3.googleusercontent.com/proxy/S1SegGp0w6rQgngJh9G7CekRZhTuSGUqigTXMnoNdYKNknUyLq-LTViauP6SKS5LsyQ1KqaumzZ5eiAj2M_LDe7vNcl7i1p3Y2DONUR7tR5bbY4LQsP5Dw" width="120px"/>  
+<img src="https://www.pngrepo.com/png/217753/180/github.png" width="120px"/>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ocx3yMTJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/a12tj8n6facp0kt0xb0n.jpeg" width="500px"/>
 </p>
 
