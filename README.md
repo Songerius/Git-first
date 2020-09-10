@@ -1,7 +1,15 @@
 <p align="center"><img src="https://guabiits.com/img/img/rebrand/gb-astrocat.svg" width="180px" align="middle"></img></p>
 
-
-![](https://img.shields.io/badge/Profesion-StudentDev-00C1FF) ![](https://img.shields.io/badge/Academia-Platzi-success) ![](https://img.shields.io/badge/Lugar-Guatemala-blue)  ![](https://img.shields.io/badge/Version-0.1-blue) ![](https://img.shields.io/badge/Tech-Html-red) ![](https://img.shields.io/badge/Tech-Css-informational) ![](https://img.shields.io/badge/Tech-Git-6FF075) ![](https://img.shields.io/badge/Tech-GitHub-171717)
+<p align="center">
+<img src="https://img.shields.io/badge/Profesion-StudentDev-00C1FF"/> 
+<img src="https://img.shields.io/badge/Academia-Platzi-success"/> 
+<img src="https://img.shields.io/badge/Lugar-Guatemala-blue"/>
+<img src="https://img.shields.io/badge/Version-0.1-blue"/>
+<img src="https://img.shields.io/badge/Tech-Html-red"/>
+<img src="https://img.shields.io/badge/Tech-Css-informational"/> 
+<img src="https://img.shields.io/badge/Tech-Git-6FF075"/>
+<img src="https://img.shields.io/badge/Tech-GitHub-171717"/>>
+</p>
 
 
 
